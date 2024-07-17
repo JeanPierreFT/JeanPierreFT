@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou Jean Pierre</h1>
 <h3 align="center">Analista Cloud Computing</h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 
 
 - 👨‍💻 Profissional com ampla experiência em Infraestrutura e Redes, apaixonado por Tecnologia e Videogame 🎮.
@@ -9,7 +9,11 @@
 - 🚀 Atualmente, estou explorando e apredendo me especializado em tecnologias como: **AWS, GCP, Azure, Kubernetes, Python, Ansible, Terraform**, e sempre em busca de desafios empolgantes no mundo da TI.
 - 🕹️ Quando não estou trabalhando, você me encontrará mergulhado em mundos virtuais, explorando os mais recentes lançamentos de jogos ou experimentando novos títulos.
 - 🤝 Meu site pessoal, junto com postagem do meu blog [JPHELPDESK](https://jphelpdesk.github.io/)
-- 📫 Contato no meu email **jeanpierreft@gmail.com**
+
+
+## 🛠️ Ferramentas, Tecnologias e Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=vscode,aws,gcp,azure,linux,windows,mysql,ansible,terraform,grafana,k8s,docker,bash,git,github)](https://skillicons.dev)<br><br>
+
 
 ## 📫 Contato
 
