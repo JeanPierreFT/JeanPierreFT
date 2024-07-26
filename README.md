@@ -1,5 +1,4 @@
-<img src="./code.jpg" alt="ilustração de um computador" align="center">
-<br><br>
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="./code.jpg" alt="ilustração de um computador">
 
 <h1 align="center">Olá 👋, Sou Jean Pierre</h1>
 <h3 align="center">Analista Cloud Computing</h3>
