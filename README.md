@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou Jean Pierre</h1>
 <h3 align="center">Analista Cloud Computing</h3>
 
-<img src="./code.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
+<img src="./code.jpg" alt="ilustração de um computador" align="center">
 <br><br>
 
 - 👨‍💻 Profissional com ampla experiência em Infraestrutura e Redes, apaixonado por Tecnologia e Videogame 🎮.
