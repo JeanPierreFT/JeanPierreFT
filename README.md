@@ -1,9 +1,8 @@
-<h1 align="center">Olá 👋, Sou Jean Pierre</h1>
-<h3 align="center">Analista Cloud Computing</h3>
-
 <img src="./code.jpg" alt="ilustração de um computador" align="center">
 <br><br>
 
+<h1 align="center">Olá 👋, Sou Jean Pierre</h1>
+<h3 align="center">Analista Cloud Computing</h3>
 - 👨‍💻 Profissional com ampla experiência em Infraestrutura e Redes, apaixonado por Tecnologia e Videogame 🎮.
 - 🌐 Atuamente estou trabalhando de **Analista Infraestrura Cloud na Cinnecta**, Trabalho com soluções de infraestrutura há **7** anos, focando em **cloud computing, docker, virtualização, windwos server, linux, Monitoração e Backup**.
 - 🚀 Atualmente, estou explorando e apredendo me especializado em tecnologias como: **AWS, GCP, Azure, Kubernetes, Python, Ansible, Terraform**, e sempre em busca de desafios empolgantes no mundo da TI.
